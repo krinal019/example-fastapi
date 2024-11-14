@@ -19,7 +19,6 @@ websockets==12.0
 
 
 
-﻿annotated-types==0.7.0
 anyio==4.6.2.post1
 attrs==24.2.0
 certifi==2024.8.30
